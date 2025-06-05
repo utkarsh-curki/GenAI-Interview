@@ -26,6 +26,12 @@ Your task is to:
 
 Note: You are free to use any tool, language, approach and LLM's
 
+## System Capability Overview
+
+The system must be capable of accurately populating any provided template file (in Excel or CSV format) using one or multiple source files (also in Excel or CSV format). This process should be powered by AI/GenAI or intelligent software logic.
+
+The solution must be dynamic and adaptable, meaning it cannot rely on hardcoded mappings or assumptions. It should intelligently interpret the structure and content of both the template and source files to perform accurate data population, regardless of the specific format or content of the files provided.
+
 ### Some resources:
 1. Groq Free API: https://console.groq.com/home
 ---
